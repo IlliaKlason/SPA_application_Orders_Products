@@ -23,7 +23,7 @@ export const orders = [
   {
     id: 4,
     title: 'Order 4',
-    date: '2017-06-29 12:09:33',
+    date: '2017-06-28 12:09:33',
     description: 'desc',
     get products () { return products },
   }
