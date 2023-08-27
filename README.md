@@ -1,4 +1,4 @@
-[DEMO LINK](https://andrii-kuzmenko.github.io/test_task_for_dzencode/)
+[LINK](https://IlliaKlason.github.io/test_task_for_dzencode/)
 
 This is an application that contains two pages: Orders and Products. The NavigationMenu component contains route links to the Orders and Products pages. The TopMenu component displays the real-time date and time.
 
@@ -7,6 +7,7 @@ In the Orders component, when a specific order is clicked, a list of products fo
 The Products component displays all products that can be sorted by product type. Each product contains information with its name, product type, warranty dates, prices in different currencies, and the order name.
 
 # Used technologies:
+
 - Redux
 - React
 - Typescript
