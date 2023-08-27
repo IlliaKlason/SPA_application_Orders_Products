@@ -1,0 +1,31 @@
+.order {
+  &__group:hover {
+    background-color: #f8f9fa;
+  }
+  
+  &__link {
+    color: #000;
+    
+    &:hover {
+      color: #000;
+    }
+  }
+
+  &__close-button {
+    transition: transform 0.3s;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
+
+.close-button {
+  position: relative;
+  transform: translate(-50%, -50%);
+  transition: transform 0.3s;
+
+  &:hover {
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+}

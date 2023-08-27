@@ -1,0 +1,8 @@
+.main {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+}
+
+#root {
+  max-width: 1280px;
+}
